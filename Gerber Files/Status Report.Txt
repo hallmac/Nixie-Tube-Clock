@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Nixie Tube Clock.PrjPcb]
+   Generated File[NixieClock.GTL]
+   Generated File[NixieClock.GBL]
+   Generated File[NixieClock.GTO]
+   Generated File[NixieClock.GTP]
+   Generated File[NixieClock.GTS]
+   Generated File[NixieClock.GBS]
+   Generated File[NixieClock.GBP]
+   Generated File[NixieClock.GBO]
+   Generated File[NixieClock.Outline]
+   Generated File[NixieClock.RUL]
+   Generated File[NixieClock.EXTREP]
+   Generated File[NixieClock.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:14:41 PM On 5/4/2020
